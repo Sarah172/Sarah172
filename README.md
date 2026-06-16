@@ -33,7 +33,7 @@ I am a Computer Science graduate with distinction from Dalhousie University (Min
 * Implemented AES-256 encryption and public access restrictions, validating access boundaries using the AWS CLI.
 * Integrated CloudTrail logging and CloudWatch monitoring with SNS alerting to maintain a full audit trail.
 
-🐧 **Linux Authentication Log Monitoring**
+**Linux Authentication Log Monitoring**
 * Developed a Python-based tool to detect unauthorized access attempts through log analysis.
 * Supported security monitoring and incident detection workflows by identifying brute-force behavior.
 
