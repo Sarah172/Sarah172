@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-**Aspiring Machine Learning & Security Engineer | Agentic AI • GRC • Risk Automation**
+**Machine Learning & Security Consulting | Agentic AI • GRC • Risk Automation**
 
 ### About Me
 I am a Computer Science graduate with distinction from Dalhousie University (Minor in Mathematics).I aim to specialize in building intelligent, automated systems that solve complex enterprise challenges, blending modern artificial intelligence with robust software engineering practices. My goal is to bridge the gap between advanced technology and real-world business needs, ensuring that innovative solutions are both secure and highly scalable.
